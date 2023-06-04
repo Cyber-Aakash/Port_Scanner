@@ -15,7 +15,7 @@ A Simple Multithreaded Port Scanner in Python enables simultaneous scanning of m
 
 1. Clone the Repository in your terminal using command :      
    
-       git clone https://github.com/Cyber-Aakash/Port_Scanner
+       git clone https://github.com/Cyber-Aakash/Port_Scanner.git
     
 2. Run the following command to see the available options :      
    
